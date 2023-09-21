@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+table{
+    margin-left: 42%;
+}
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #FFFAFA;
+    margin: 20px;
+    text-align: center;
+}
+.main{
+    margin: auto;
+    text-align: center;
+}
+#n0{
+    margin-left: 0px;
+}
+.button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 20;
+}
+.textview{
+    width: 210px;
+    height: 30px;
+}
